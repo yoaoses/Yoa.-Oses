@@ -27,7 +27,7 @@ export default class uiStatus{
     
     async getJsons(){
         try {
-            const response = await fetch("../data/about.json"); // Espera a que se resuelva la promesa de fetch
+            const response = await fetch("./data/about.json"); // Espera a que se resuelva la promesa de fetch
             this.#about = await response.json(); // Luego, convierte la respuesta en JSON
             console.log(this.#about.short);
         } catch (error) {
