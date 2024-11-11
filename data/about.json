@@ -1,0 +1,47 @@
+{
+    "short": {
+      "en": "I am a web developer specialized in Vanilla JavaScript, with experience in user interface design for information systems and a focus on creating adaptable, efficient solutions.",
+      "es": "Soy un desarrollador web especializado en JavaScript Vanilla, con experiencia en la creación de interfaces de usuario para sistemas de información y un enfoque en crear soluciones adaptables y eficientes."
+    },
+    "long": {
+      "en": {
+        "introduction": "I am a web developer with a focus on Vanilla JavaScript, passionate about creating solid and effective solutions that leave room for future improvements and customization. Programming caught my interest due to the endless possibilities it offers; once something becomes data, the potential for creation is nearly limitless.",
+        "skills_and_experience": "My strongest skills lie in analyzing and breaking down complex problems into manageable parts. I am most comfortable in frontend development, especially in creating user interfaces for information systems and managing data in the intermediary layer of web systems. Although I don’t have extensive backend experience, I have a strong theoretical foundation, which has allowed me to adapt to challenges outside my comfort zone.",
+        "highlighted_projects": [
+          {
+            "name": "GCAdmin",
+            "description": "GCAdmin is a comprehensive administration system that evolved from an initial rapid solution and has grown into a structured and efficient application. It represents my journey as a developer, starting from spaghetti code to a well-organized system.",
+            "technologies": ["JavaScript", "HTML", "CSS", "Laravel 9"]
+          },
+          {
+            "name": "Google Sheets for Report Automation",
+            "description": "During the pandemic, I developed an emergency solution using Google Sheets and JavaScript to automate reporting processes, which ultimately led to the development of GCAdmin.",
+            "technologies": ["Google Sheets", "JavaScript"]
+          }
+        ],
+        "philosophy_and_goals": "I value clear objectives and code quality, prioritizing readability and ease of maintenance. My goal is always to deliver something that goes beyond the minimum requirements, adding extra value where possible.",
+        "design_approach": "One of my main priorities in interface design is to ensure that users feel that the system is intuitive and relaxing. I apply the '3-step rule,' ensuring that no more than three steps separate the user from the information they need. When a process requires more steps, I organize the interface to include visual 'breaks,' dividing decisions into small groups to avoid overwhelming the user.",
+        "future_interests": "I am interested in developing administrative systems for users who may not be very familiar with computers. I am also open to exploring hardware-integrated solutions, though I have yet to gain practical experience in this area. I am passionate about taking data, processing it, and presenting it clearly, especially in web systems where information can flow across various layers and facilitate user decision-making."
+      },
+      "es": {
+        "introduction": "Soy un desarrollador web con enfoque en JavaScript Vanilla, apasionado por crear soluciones sólidas y efectivas que siempre dejan espacio para mejoras y personalización. La programación me atrapó por la cantidad de posibilidades que ofrece; en cuanto algo se convierte en datos, el potencial de creación es casi ilimitado.",
+        "skills_and_experience": "Mis habilidades más fuertes se centran en el análisis y la descomposición de problemas complejos en partes manejables. Me siento cómodo en el desarrollo frontend, especialmente en la creación de interfaces de usuario para sistemas de información y en la gestión de datos en la capa intermedia de los sistemas web. Aunque no tengo una experiencia profunda en backend, tengo una base sólida en teoría de programación y conceptos fundamentales.",
+        "highlighted_projects": [
+          {
+            "name": "GCAdmin",
+            "description": "GCAdmin es un sistema de administración que ha evolucionado desde una solución inicial rápida hasta convertirse en una aplicación bien estructurada y eficiente. Representa mi crecimiento como programador, pasando del código espagueti a un sistema organizado.",
+            "technologies": ["JavaScript", "HTML", "CSS", "Laravel 9"]
+          },
+          {
+            "name": "Google Sheets para Reportes Automatizados",
+            "description": "Durante la pandemia, desarrollé una solución de emergencia utilizando Google Sheets y JavaScript para automatizar el proceso de reportes, lo que finalmente llevó al desarrollo de GCAdmin.",
+            "technologies": ["Google Sheets", "JavaScript"]
+          }
+        ],
+        "philosophy_and_goals": "Valoro la claridad en los objetivos y la calidad del código, priorizando la legibilidad y la facilidad de mantenimiento. Mi objetivo siempre es entregar algo que no solo cumpla con el mínimo, sino que ofrezca un valor adicional donde sea posible.",
+        "design_approach": "Una de mis prioridades al diseñar interfaces es que el usuario sienta que el sistema es intuitivo y relajante. Aplico la 'regla de los 3 pasos', asegurándome de que nunca haya más de tres pasos entre el usuario y la información que necesita. Si un proceso requiere más pasos, organizo la interfaz de modo que haya 'descansos' visuales, dividiendo la toma de decisiones en grupos pequeños para que no se sienta abrumadora.",
+        "future_interests": "Me interesa el desarrollo de sistemas de administración pensados para usuarios que no necesariamente tienen experiencia técnica en informática. También estoy abierto a explorar soluciones integradas con hardware, aunque no he tenido la oportunidad de profundizar en este aspecto aún. Me fascina la idea de tomar datos, procesarlos y mostrarlos de manera clara, especialmente en sistemas web donde esa información puede fluir entre distintas capas del sistema y facilitar la toma de decisiones de los usuarios."
+      }
+    }
+  }
+  
